@@ -9,10 +9,11 @@
   "author": "Brad Traversy",
   "license": "MIT",
   "dependencies": {
-    "body-parser": "*",
-    "ejs": "*",
-    "express": "*",
-    "nexmo": "*",
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "nexmo": "^2.4.1",
+    "socket-io": "^1.0.0",
     "socket.io": "*"
   }
 }
